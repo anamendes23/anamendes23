@@ -13,6 +13,10 @@ My name is Ana and I'm a Computer Science master student at Seattle University.
   - Computer Graphics holds sweet spot in my heart of the many areas of CS
   - I hold a B.S. in Mechanical Engineering, but feel in love with CS when I did a certificate program
 
+### 📚 My Portfolio
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&)](https://github.com/anamendes23/github-portfolio/blob/main/README.md)
+
 ### Connect with me!
 <div>
   <div>
