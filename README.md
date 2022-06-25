@@ -33,7 +33,7 @@ My name is Ana and I'm a Computer Science master student at Seattle University.
 ### GitHub Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anamendes23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anamendes23)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamendes23&layout=compact&langs_count=10&exclude_repo=anamendes23&hide=SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex,PHP,ASP,Mathematica,TSQL,Lua,GLSL,PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamendes23&layout=compact&langs_count=10&exclude_repo=anamendes23&hide=JavaScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex,PHP,ASP,Mathematica,TSQL,PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **anamendes23/anamendes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
