@@ -3,7 +3,8 @@
 My name is Ana and I'm a Computer Science master student at Seattle University.
 
 - 🔭 I’m currently working on:
-  - Designing a Chord protocol
+  - Building a [game engine](https://github.com/anamendes23/game_engine)
+  - Implementing a Chord protocol
 - 🌱 I’m currently learning about:
   - Computer Networks
   - Distributed Systems
@@ -11,8 +12,8 @@ My name is Ana and I'm a Computer Science master student at Seattle University.
 - ⚡ Fun fact:
   - I love art!
   - Computer Graphics holds sweet spot in my heart of the many areas of CS
-  - I hold a B.S. in Mechanical Engineering, but feel in love with CS when I did a certificate program
-
+  - I hold a B.S. in Mechanical Engineering, but fell in love with programming 💜
+ 
 ### 📚 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&)](https://github.com/anamendes23/github-portfolio/blob/main/README.md)
