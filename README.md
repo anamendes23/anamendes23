@@ -3,11 +3,12 @@
 My name is Ana and I'm a Computer Science master student at Seattle University.
 
 - 🔭 I’m currently working on:
+  - Writing an [http server](https://github.com/anamendes23/http_server) that dynamically generates content
   - Building a [game engine](https://github.com/anamendes23/game_engine)
-  - Implementing a Chord protocol
 - 🌱 I’m currently learning about:
+  - Security in Computing
+  - GStreamer
   - Computer Networks
-  - Distributed Systems
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - I love art!
